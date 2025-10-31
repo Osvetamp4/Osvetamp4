@@ -4,7 +4,7 @@ My full name is Lawrence Glory Xie but to everyone who knows me, I just go by La
 
 I am an aspiring Software Engineer who is passionate about learning and integrating new technologies and skills with experience in Software Development, Full Stack Development, Backend Engineering and Customer Consulting and Relations.
 
-I am a very knowledge driven person who loves the thrill of knowledge seeking and learning new things! It activates a part of my brain and scratches that itch that I have for it. Everything that I have learned to do: Programming, game design, web development, machine learning, etc has always been because of my curiosity.
+I am a very knowledge driven person who loves the thrill of knowledge seeking and learning new things! It activates a part of my brain and scratches that itch for curiosity and the desire to learn and grow.
 
 ## Current Skills and Experience
 
