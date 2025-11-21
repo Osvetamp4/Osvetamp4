@@ -14,6 +14,10 @@ My work in Full-Stack Engineering spans the entire MERN stack:
 - (Enviroment) : NodeJS
 - (Database) : MongoDB
 
+My work in general software-engineering and education allows me to:
+- Pilot and utilize Git's core functionality to properly collaborate and work with team members.
+- Understand core Software-Engineering methodologies and practices in order to be an effective engineer.
+
 
 My experience in UX/UI Design and Consulting has given me:
 - A deeper appreciation of the importance of proper communication with teammates and clients.
