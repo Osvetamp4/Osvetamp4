@@ -14,6 +14,13 @@ My work in Full-Stack Engineering spans the entire MERN stack:
 - (Enviroment) : NodeJS
 - (Database) : MongoDB
 
+My work in Systems Engineering:
+- Nginx(React) for front facing applications
+- Redis Queueing for lightweight and atomic operations in systems design
+- Prometheus for data monitoring and container monitoring
+- Docker Compose for microservices containerization.
+- Postgres for database functionality.
+
 My work in general software-engineering and education allows me to:
 - Pilot and utilize Git's core functionality to properly collaborate and work with team members.
 - Understand core Software-Engineering methodologies and practices in order to be an effective engineer.
